@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @natashakaye
 - 👀 I’m interested in front-end engineering
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on creating diagrams for hair/headsheets
 - 📫 How to reach me natashakayelawson@gmail.com
 
 <!---
